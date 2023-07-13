@@ -1,0 +1,4 @@
+﻿  R-Darkfield-Count.cpp
+D:\Study\ECNU-Proj\Cells\R-Darkfield-Count\R-Darkfield-Count.cpp(98,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Study\ECNU-Proj\Cells\R-Darkfield-Count\R-Darkfield-Count.cpp(157,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  R-Darkfield-Count.vcxproj -> D:\Study\ECNU-Proj\Cells\R-Darkfield-Count\x64\Debug\R-Darkfield-Count.exe

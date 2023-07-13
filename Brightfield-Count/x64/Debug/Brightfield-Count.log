@@ -1,0 +1,4 @@
+﻿  Brightfield-Count.cpp
+D:\Study\ECNU-Proj\Cells\Brightfield-Count\Brightfield-Count.cpp(69,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Study\ECNU-Proj\Cells\Brightfield-Count\Brightfield-Count.cpp(119,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Brightfield-Count.vcxproj -> D:\Study\ECNU-Proj\Cells\Brightfield-Count\x64\Debug\Brightfield-Count.exe
